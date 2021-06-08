@@ -1,0 +1,60 @@
+2021-06-07 14:59:18 ERROR App:16 - org.edu.MyCheckException: Boss! We lost every thing
+2021-06-07 15:37:56 ERROR App:17 - org.edu.MyCheckException: Boss! We lost every thing
+2021-06-07 15:41:03 ERROR App:16 - org.edu.MyCheckException: Boss! We lost every thing
+2021-06-07 15:41:03 ERROR App:22 - java.lang.RuntimeException: Everything is good!
+2021-06-07 15:43:22 ERROR App:18 - org.edu.MyCheckException: Boss! We lost every thing
+2021-06-07 15:43:58 ERROR App:19 - java.lang.RuntimeException: Everything is good!
+2021-06-07 15:55:49 ERROR App:18 - org.edu.MyCheckException: Boss! We lost every thing
+2021-06-07 15:57:01 ERROR App:18 - org.edu.MyCheckException: Boss! We lost every thing
+2021-06-07 15:58:27 ERROR App:18 - org.edu.MyCheckException: Boss! We lost every thing
+2021-06-07 15:59:07 ERROR App:18 - org.edu.MyCheckException: Boss! We lost every thing
+2021-06-07 15:59:07 ERROR App:23 - org.edu.MyUncheckException
+2021-06-07 16:01:47 ERROR App:18 - org.edu.MyCheckException: Boss! We lost every thing
+2021-06-07 16:02:25 ERROR App:18 - org.edu.MyCheckException: Boss! We lost every thing
+2021-06-07 16:02:25 ERROR App:23 - java.lang.RuntimeException: It is too many 10
+2021-06-07 16:06:44 ERROR App:18 - org.edu.MyCheckException: Boss! We lost every thing
+2021-06-07 16:06:44 ERROR App:23 - org.edu.MyUncheckException: It is too many 
+2021-06-07 16:07:29 ERROR App:18 - org.edu.MyCheckException: Boss! We lost every thing0
+2021-06-07 16:07:29 ERROR App:23 - org.edu.MyUncheckException: It is too many 
+2021-06-07 16:07:57 ERROR App:18 - org.edu.MyCheckException: Boss! We lost every thing 0
+2021-06-07 16:07:57 ERROR App:23 - org.edu.MyUncheckException: It is too many 
+2021-06-07 16:09:10 ERROR App:18 - org.edu.MyCheckException: Boss! We lost every thing value - 0
+2021-06-07 16:09:10 ERROR App:23 - org.edu.MyUncheckException: It is too many! Value
+2021-06-07 16:09:37 ERROR App:18 - org.edu.MyCheckException: Boss! We lost every thing value - 0
+2021-06-07 16:09:37 ERROR App:23 - org.edu.MyUncheckException: It is too many! Value10
+2021-06-07 16:10:26 ERROR App:18 - org.edu.MyCheckException: Boss! We lost every thing!  Value - 0
+2021-06-07 16:10:26 ERROR App:23 - org.edu.MyUncheckException: It is too many! Value 10
+2021-06-07 16:18:24 ERROR App:18 - org.edu.MyCheckException: Boss! We lost every thing!  Value - 0
+2021-06-07 16:18:24 ERROR App:23 - org.edu.MyUncheckException: It is too many! Value 10
+2021-06-07 16:23:06 ERROR App:18 - org.edu.MyCheckException: Boss! We lost every thing!  Value - 0
+2021-06-07 16:23:06 ERROR App:24 - org.edu.MyUncheckException: It is too many! Value 10
+2021-06-07 16:24:44 ERROR App:18 - [Ljava.lang.StackTraceElement;@6108b2d7
+2021-06-07 16:24:44 ERROR App:24 - org.edu.MyUncheckException: It is too many! Value 10
+2021-06-07 16:26:34 ERROR App:23 - 
+java.base/java.lang.Thread.getStackTrace(Thread.java:1596)
+org.edu.App.main(App.java:20)
+2021-06-07 16:26:34 ERROR App:29 - org.edu.MyUncheckException: It is too many! Value 10
+2021-06-07 16:28:41 ERROR App:22 - 
+java.base/java.lang.Thread.getStackTrace(Thread.java:1596)
+org.edu.App.main(App.java:19)
+2021-06-07 16:28:41 ERROR App:32 - 
+java.base/java.lang.Thread.getStackTrace(Thread.java:1596)
+org.edu.App.main(App.java:29)
+2021-06-07 16:29:43 ERROR App:22 - 
+java.base/java.lang.Thread.getStackTrace(Thread.java:1596)
+org.edu.App.main(App.java:19)
+2021-06-07 16:29:43 ERROR App:23 - org.edu.MyCheckException: Boss! We lost every thing!  Value - 0
+2021-06-07 16:29:43 ERROR App:33 - 
+java.base/java.lang.Thread.getStackTrace(Thread.java:1596)
+org.edu.App.main(App.java:30)
+2021-06-07 16:29:43 ERROR App:34 - org.edu.MyUncheckException: It is too many! Value 10
+2021-06-07 19:34:34 INFO  SampleLogger:10 - Hi This is my first SLF4J program
+2021-06-07 19:34:54 INFO  SampleLogger:10 - Hi This is my first SLF4J program
+2021-06-07 19:34:59 ERROR App:26 - 
+java.base/java.lang.Thread.getStackTrace(Thread.java:1596)
+org.edu.App.main(App.java:23)
+2021-06-07 19:34:59 ERROR App:27 - org.edu.MyCheckException: Boss! We lost every thing!  Value - 0
+2021-06-07 19:34:59 ERROR App:37 - 
+java.base/java.lang.Thread.getStackTrace(Thread.java:1596)
+org.edu.App.main(App.java:34)
+2021-06-07 19:34:59 ERROR App:38 - org.edu.MyUncheckException: It is too many! Value 10
